@@ -1,9 +1,9 @@
-import CountrySearchApp from "./components/1 - Country Search/CountrySearchApp";
+import GithubSearchApp from "./components/2 - Github User Search/GithubSearchApp";
 
 function App() {
   return (
     <div className="app">
-      <CountrySearchApp />
+      <GithubSearchApp />
     </div>
   );
 }

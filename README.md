@@ -8,6 +8,7 @@ This repository contains mini api projects
 ## Projects
 
 - 1 - Country Search
+- 2 - Github Search App
 
 ### Built with
 
